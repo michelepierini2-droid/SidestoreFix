@@ -434,22 +434,6 @@
             ]
         },
         {
-            "name": "Little Nightmares",
-            "bundleIdentifier": "com.playdigious.littlenightmares",
-            "developerName": "Little Nightmares x CyPwn",
-            "localizedDescription": "Play as Six, a lone child trapped in the Maw, a vast metal vessel filled with monstrous adults. Escape before it\u2019s too late.",
-            "iconURL": "https://ipa.cypwn.xyz/serve/icons/LittleNightmares_1.0.2.png",
-            "tintColor": "FFC300",
-            "versions": [
-                {
-                    "version": "1.0.2",
-                    "date": "2025-07-12",
-                    "downloadURL": "https://ipa.cypwn.xyz/ipas/LittleNightmares_1.0.2.ipa",
-                    "size": 2147483648
-                }
-            ]
-        },
-        {
             "name": "SQLiteFlow_5.8.6",
             "bundleIdentifier": "com.hyperobjc.SQLiteFlow-iOS",
             "developerName": "SQLiteFlow_5.8.6 x CyPwn",
@@ -2134,6 +2118,1376 @@
             ]
         },
         {
+            "name": "McClockface.1.5.1",
+            "bundleIdentifier": "cypwn.McClockface.1.5.1.1.5.1",
+            "developerName": "McClockface.1.5.1 x CyPwn",
+            "localizedDescription": "Add beautiful timepiece widgets to your home screen with McClockface.",
+            "iconURL": "https://ipa.cypwn.xyz/serve/icons/McClockface.1.5.1.png",
+            "tintColor": "FFC300",
+            "versions": [
+                {
+                    "version": "1.5.1",
+                    "date": "2023-01-08",
+                    "downloadURL": "https://ipa.cypwn.xyz/ipas/McClockface.1.5.1.ipa",
+                    "size": 5012193
+                }
+            ]
+        },
+        {
+            "name": "Naiad",
+            "bundleIdentifier": "cypwn.Naiad.1.0",
+            "developerName": "Naiad x CyPwn",
+            "localizedDescription": "Offline, high-resolution AI image generation",
+            "iconURL": "https://ipa.cypwn.xyz/serve/icons/Naiad.png",
+            "tintColor": "FFC300",
+            "versions": [
+                {
+                    "version": "1.0",
+                    "date": "2022-12-31",
+                    "downloadURL": "https://ipa.cypwn.xyz/ipas/Naiad.ipa",
+                    "size": 17249075
+                }
+            ]
+        },
+        {
+            "name": "SharkMessenger_388.0",
+            "bundleIdentifier": "cypwn.SharkMessenger_388.0.388.0",
+            "developerName": "SharkMessenger_388.0 x CyPwn",
+            "localizedDescription": "Shark 2.2.1 + Facebook Messenger 388.0",
+            "iconURL": "https://ipa.cypwn.xyz/serve/icons/SharkMessenger_388.0.png",
+            "tintColor": "FFC300",
+            "versions": [
+                {
+                    "version": "388.0",
+                    "date": "2022-11-30",
+                    "downloadURL": "https://ipa.cypwn.xyz/ipas/SharkMessenger_388.0.ipa",
+                    "size": 61865984
+                }
+            ]
+        },
+        {
+            "name": "Sonic_3.5",
+            "bundleIdentifier": "cypwn.Sonic_3.5.3.5",
+            "developerName": "Sonic_3.5 x CyPwn",
+            "localizedDescription": "Sonic Tone Generator cracked. Eject water from your speakers and more!",
+            "iconURL": "https://ipa.cypwn.xyz/serve/icons/Sonic_3.5.png",
+            "tintColor": "FFC300",
+            "versions": [
+                {
+                    "version": "3.5",
+                    "date": "2022-11-30",
+                    "downloadURL": "https://ipa.cypwn.xyz/ipas/Sonic_3.5.ipa",
+                    "size": 20950548
+                }
+            ]
+        },
+        {
+            "name": "Summon_1.8_Satella",
+            "bundleIdentifier": "cypwn.Summon_1.8_Satella.1.8",
+            "developerName": "Summon_1.8_Satella x CyPwn",
+            "localizedDescription": "Open Links in Apps! An ultra-efficient Safari Extension that helps you opens sites in app. Choose between over 200+ apps to open from Safari. Use Satella to purchase unlimited with “Click and Cancel” method.",
+            "iconURL": "https://ipa.cypwn.xyz/serve/icons/Summon_1.8_Satella.png",
+            "tintColor": "FFC300",
+            "versions": [
+                {
+                    "version": "1.8",
+                    "date": "2022-11-27",
+                    "downloadURL": "https://ipa.cypwn.xyz/ipas/Summon_1.8_Satella.ipa",
+                    "size": 607805
+                }
+            ]
+        },
+        {
+            "name": "Vinegar_2.4.2",
+            "bundleIdentifier": "cypwn.Vinegar_2.4.2.2.4.2",
+            "developerName": "Vinegar_2.4.2 x CyPwn",
+            "localizedDescription": "Vinegar is a Safari extension that replaces the YouTube player with a minimal HTML video tag. It removes ads, restores picture-in-picture, and keeps videos playing in the background.",
+            "iconURL": "https://ipa.cypwn.xyz/serve/icons/Vinegar_2.4.2.png",
+            "tintColor": "FFC300",
+            "versions": [
+                {
+                    "version": "2.4.2",
+                    "date": "2022-11-26",
+                    "downloadURL": "https://ipa.cypwn.xyz/ipas/Vinegar_2.4.2.ipa",
+                    "size": 215521
+                }
+            ]
+        },
+        {
+            "name": "HeadsUp_5.1.41_Satella",
+            "bundleIdentifier": "cypwn.HeadsUp_5.1.41_Satella.5.1.41",
+            "developerName": "HeadsUp_5.1.41_Satella x CyPwn",
+            "localizedDescription": "Satella injected for free in-app purchases. Tip: Disable receipts in satella settings then buy card packs. App may crash after clicking to buy stuff but they will appear on app restart. Turn off the Satella Enable switch before playing games to avoid further crashing.",
+            "iconURL": "https://ipa.cypwn.xyz/serve/icons/HeadsUp_5.1.41_Satella.png",
+            "tintColor": "FFC300",
+            "versions": [
+                {
+                    "version": "5.1.41",
+                    "date": "2022-11-20",
+                    "downloadURL": "https://ipa.cypwn.xyz/ipas/HeadsUp_5.1.41_Satella.ipa",
+                    "size": 187191787
+                }
+            ]
+        },
+        {
+            "name": "Pandolife1.1a_2211.1",
+            "bundleIdentifier": "cypwn.Pandolife1.1a_2211.1.2211.1",
+            "developerName": "Pandolife1.1a_2211.1 x CyPwn",
+            "localizedDescription": "Pandora v2211.1 with Pandolife v1.1a by Julio Verne.",
+            "iconURL": "https://ipa.cypwn.xyz/serve/icons/Pandolife1.1a_2211.1.png",
+            "tintColor": "FFC300",
+            "versions": [
+                {
+                    "version": "2211.1",
+                    "date": "2022-11-16",
+                    "downloadURL": "https://ipa.cypwn.xyz/ipas/Pandolife1.1a_2211.1.ipa",
+                    "size": 84148224
+                }
+            ]
+        },
+        {
+            "name": "StarVPN_3.6.0",
+            "bundleIdentifier": "cypwn.StarVPN_3.6.0.3.6.0",
+            "developerName": "StarVPN_3.6.0 x CyPwn",
+            "localizedDescription": "Premium unlocked",
+            "iconURL": "https://ipa.cypwn.xyz/serve/icons/StarVPN_3.6.0.png",
+            "tintColor": "FFC300",
+            "versions": [
+                {
+                    "version": "3.6.0",
+                    "date": "2022-11-15",
+                    "downloadURL": "https://ipa.cypwn.xyz/ipas/StarVPN_3.6.0.ipa",
+                    "size": 6501171
+                }
+            ]
+        },
+        {
+            "name": "RadarbotVIP_8.7.1",
+            "bundleIdentifier": "cypwn.RadarbotVIP_8.7.1.8.7.1",
+            "developerName": "RadarbotVIP_8.7.1 x CyPwn",
+            "localizedDescription": "VIP unlocked. Cracked by @Sopranox",
+            "iconURL": "https://ipa.cypwn.xyz/serve/icons/RadarbotVIP_8.7.1.png",
+            "tintColor": "FFC300",
+            "versions": [
+                {
+                    "version": "8.7.1",
+                    "date": "2022-11-15",
+                    "downloadURL": "https://ipa.cypwn.xyz/ipas/RadarbotVIP_8.7.1.ipa",
+                    "size": 71355596
+                }
+            ]
+        },
+        {
+            "name": "VidList_0.5.1",
+            "bundleIdentifier": "cypwn.VidList_0.5.1.0.5.1",
+            "developerName": "VidList_0.5.1 x CyPwn",
+            "localizedDescription": "NSFW",
+            "iconURL": "https://ipa.cypwn.xyz/serve/icons/VidList_0.5.1.png",
+            "tintColor": "FFC300",
+            "versions": [
+                {
+                    "version": "0.5.1",
+                    "date": "2022-11-12",
+                    "downloadURL": "https://ipa.cypwn.xyz/ipas/VidList_0.5.1.ipa",
+                    "size": 5326766
+                }
+            ]
+        },
+        {
+            "name": "cl1m4x",
+            "bundleIdentifier": "cypwn.cl1m4x.1.3",
+            "developerName": "cl1m4x x CyPwn",
+            "localizedDescription": "v1.3 by Kanji - Eat some c0rn. Blow your h0rn. Watch some …",
+            "iconURL": "https://ipa.cypwn.xyz/serve/icons/cl1m4x.png",
+            "tintColor": "FFC300",
+            "versions": [
+                {
+                    "version": "1.3",
+                    "date": "2022-11-07",
+                    "downloadURL": "https://ipa.cypwn.xyz/ipas/cl1m4x.ipa",
+                    "size": 17343447
+                }
+            ]
+        },
+        {
+            "name": "ChromaHue_2.1.0",
+            "bundleIdentifier": "cypwn.ChromaHue_2.1.0.2.1.0",
+            "developerName": "ChromaHue_2.1.0 x CyPwn",
+            "localizedDescription": "Create clean wallpapers w/ gradients and edge outlines.",
+            "iconURL": "https://ipa.cypwn.xyz/serve/icons/ChromaHue_2.1.0.png",
+            "tintColor": "FFC300",
+            "versions": [
+                {
+                    "version": "2.1.0",
+                    "date": "2022-11-07",
+                    "downloadURL": "https://ipa.cypwn.xyz/ipas/ChromaHue_2.1.0.ipa",
+                    "size": 2936012
+                }
+            ]
+        },
+        {
+            "name": "Ulysses_27.3k",
+            "bundleIdentifier": "cypwn.Ulysses_27.3k.27.3",
+            "developerName": "Ulysses_27.3k x CyPwn",
+            "localizedDescription": "Ulysses writing app with the subscription cracked",
+            "iconURL": "https://ipa.cypwn.xyz/serve/icons/Ulysses_27.3k.png",
+            "tintColor": "FFC300",
+            "versions": [
+                {
+                    "version": "27.3",
+                    "date": "2022-11-06",
+                    "downloadURL": "https://ipa.cypwn.xyz/ipas/Ulysses_27.3k.ipa",
+                    "size": 21359493
+                }
+            ]
+        },
+        {
+            "name": "PostBox-Pocket",
+            "bundleIdentifier": "cypwn.PostBox-Pocket.0.8.1",
+            "developerName": "PostBox-Pocket x CyPwn",
+            "localizedDescription": "v0.8.1-7. AppStore release! Search cydia repos and download deb files. Extract themes for jailed device theming. Not used for installing debs.",
+            "iconURL": "https://ipa.cypwn.xyz/serve/icons/PostBox-Pocket.png",
+            "tintColor": "FFC300",
+            "versions": [
+                {
+                    "version": "0.8.1",
+                    "date": "2022-11-02",
+                    "downloadURL": "https://ipa.cypwn.xyz/ipas/PostBox-Pocket.ipa",
+                    "size": 6113198
+                }
+            ]
+        },
+        {
+            "name": "SuperMario64_60FPS_1.2.1",
+            "bundleIdentifier": "cypwn.SuperMario64_60FPS_1.2.1.1.2.1",
+            "developerName": "SuperMario64_60FPS_1.2.1 x CyPwn",
+            "localizedDescription": "Latest release v1.2.1 of Super Mario 64 port for iOS. 60FPS!",
+            "iconURL": "https://ipa.cypwn.xyz/serve/icons/SuperMario64_60FPS_1.2.1.png",
+            "tintColor": "FFC300",
+            "versions": [
+                {
+                    "version": "1.2.1",
+                    "date": "2022-10-10",
+                    "downloadURL": "https://ipa.cypwn.xyz/ipas/SuperMario64_60FPS_1.2.1.ipa",
+                    "size": 9227468
+                }
+            ]
+        },
+        {
+            "name": "SuperMario64_30FPS_1.2.1",
+            "bundleIdentifier": "cypwn.SuperMario64_30FPS_1.2.1.1.2.1",
+            "developerName": "SuperMario64_30FPS_1.2.1 x CyPwn",
+            "localizedDescription": "Latest release v1.2.1 of Super Mario 64 port for iOS. 30FPS.",
+            "iconURL": "https://ipa.cypwn.xyz/serve/icons/SuperMario64_30FPS_1.2.1.png",
+            "tintColor": "FFC300",
+            "versions": [
+                {
+                    "version": "1.2.1",
+                    "date": "2022-10-10",
+                    "downloadURL": "https://ipa.cypwn.xyz/ipas/SuperMario64_30FPS_1.2.1.ipa",
+                    "size": 8420065
+                }
+            ]
+        },
+        {
+            "name": "SuperMario64",
+            "bundleIdentifier": "cypwn.SuperMario64.1.0.0",
+            "developerName": "SuperMario64 x CyPwn",
+            "localizedDescription": "Original release v1.0.0 of Super Mario 64 port for iOS. 60FPS!",
+            "iconURL": "https://ipa.cypwn.xyz/serve/icons/SuperMario64.png",
+            "tintColor": "FFC300",
+            "versions": [
+                {
+                    "version": "1.0.0",
+                    "date": "2022-10-10",
+                    "downloadURL": "https://ipa.cypwn.xyz/ipas/SuperMario64.ipa",
+                    "size": 31237079
+                }
+            ]
+        },
+        {
+            "name": "FRLegends++",
+            "bundleIdentifier": "cypwn.FRLegendsPlus.0.3.2",
+            "developerName": "FRLegends++ x CyPwn",
+            "localizedDescription": "FR Legends v0.3.2 - Unlimited money, coins, & livery layers. Requires free iOSgods login.",
+            "iconURL": "https://ipa.cypwn.xyz/serve/icons/FRLegends++.png",
+            "tintColor": "FFC300",
+            "versions": [
+                {
+                    "version": "0.3.2",
+                    "date": "2022-10-06",
+                    "downloadURL": "https://ipa.cypwn.xyz/ipas/FRLegends++.ipa",
+                    "size": 100369694
+                }
+            ]
+        },
+        {
+            "name": "WallpapersCentralPro_1.5.2",
+            "bundleIdentifier": "cypwn.WallpapersCentralPro_1.5.2.1.5.2",
+            "developerName": "WallpapersCentralPro_1.5.2 x CyPwn",
+            "localizedDescription": "Thousands of wallpapers at your fingertips. Pro features unlocked by clicking Buy on lifetime subscription, then Cancel.",
+            "iconURL": "https://ipa.cypwn.xyz/serve/icons/WallpapersCentralPro_1.5.2.png",
+            "tintColor": "FFC300",
+            "versions": [
+                {
+                    "version": "1.5.2",
+                    "date": "2022-09-28",
+                    "downloadURL": "https://ipa.cypwn.xyz/ipas/WallpapersCentralPro_1.5.2.ipa",
+                    "size": 28206694
+                }
+            ]
+        },
+        {
+            "name": "LiveWallpapersForMe_2.42.2",
+            "bundleIdentifier": "cypwn.LiveWallpapersForMe_2.42.2.2.42.2",
+            "developerName": "LiveWallpapersForMe_2.42.2 x CyPwn",
+            "localizedDescription": "Premium unlocked. Cracked by @Sopranox",
+            "iconURL": "https://ipa.cypwn.xyz/serve/icons/LiveWallpapersForMe_2.42.2.png",
+            "tintColor": "FFC300",
+            "versions": [
+                {
+                    "version": "2.42.2",
+                    "date": "2022-09-27",
+                    "downloadURL": "https://ipa.cypwn.xyz/ipas/LiveWallpapersForMe_2.42.2.ipa",
+                    "size": 127884328
+                }
+            ]
+        },
+        {
+            "name": "YouCamPerfect_5.76.1",
+            "bundleIdentifier": "cypwn.YouCamPerfect_5.76.1.5.76.1",
+            "developerName": "YouCamPerfect_5.76.1 x CyPwn",
+            "localizedDescription": "Premium unlocked. Cracked by @Sopranox",
+            "iconURL": "https://ipa.cypwn.xyz/serve/icons/YouCamPerfect_5.76.1.png",
+            "tintColor": "FFC300",
+            "versions": [
+                {
+                    "version": "5.76.1",
+                    "date": "2022-09-26",
+                    "downloadURL": "https://ipa.cypwn.xyz/ipas/YouCamPerfect_5.76.1.ipa",
+                    "size": 131009085
+                }
+            ]
+        },
+        {
+            "name": "Star_Map_2.6_Satella",
+            "bundleIdentifier": "cypwn.Star_Map_2.6_Satella.2.6",
+            "developerName": "Star_Map_2.6_Satella x CyPwn",
+            "localizedDescription": "StarMap with Satella Jailed injection. Unlock all pro features for free. Click buy then cancel when it asks for apple id confirmation.",
+            "iconURL": "https://ipa.cypwn.xyz/serve/icons/Star_Map_2.6_Satella.png",
+            "tintColor": "FFC300",
+            "versions": [
+                {
+                    "version": "2.6",
+                    "date": "2022-09-19",
+                    "downloadURL": "https://ipa.cypwn.xyz/ipas/Star_Map_2.6_Satella.ipa",
+                    "size": 32830914
+                }
+            ]
+        },
+        {
+            "name": "RefacePro_3.12.0",
+            "bundleIdentifier": "cypwn.RefacePro_3.12.0.3.12.0",
+            "developerName": "RefacePro_3.12.0 x CyPwn",
+            "localizedDescription": "Reface: Face Swap Videos. Pro unlocked.",
+            "iconURL": "https://ipa.cypwn.xyz/serve/icons/RefacePro_3.12.0.png",
+            "tintColor": "FFC300",
+            "versions": [
+                {
+                    "version": "3.12.0",
+                    "date": "2022-09-18",
+                    "downloadURL": "https://ipa.cypwn.xyz/ipas/RefacePro_3.12.0.ipa",
+                    "size": 55375298
+                }
+            ]
+        },
+        {
+            "name": "AppCake+",
+            "bundleIdentifier": "cypwn.AppCake+.7.2.2",
+            "developerName": "AppCake+ x CyPwn",
+            "localizedDescription": "AppCake7+ IPA store - Dark Mode - Bypasses verify screen - No Ads",
+            "iconURL": "https://ipa.cypwn.xyz/serve/icons/AppCake+.png",
+            "tintColor": "FFC300",
+            "versions": [
+                {
+                    "version": "7.2.2",
+                    "date": "2022-09-16",
+                    "downloadURL": "https://ipa.cypwn.xyz/ipas/AppCake+.ipa",
+                    "size": 17186160
+                }
+            ]
+        },
+        {
+            "name": "NewOS",
+            "bundleIdentifier": "cypwn.NewOS.1.0",
+            "developerName": "NewOS x CyPwn",
+            "localizedDescription": "Bring the iOS 11 experience in an app!",
+            "iconURL": "https://ipa.cypwn.xyz/serve/icons/NewOS.png",
+            "tintColor": "FFC300",
+            "versions": [
+                {
+                    "version": "1.0",
+                    "date": "2022-09-14",
+                    "downloadURL": "https://ipa.cypwn.xyz/ipas/NewOS.ipa",
+                    "size": 16410214
+                }
+            ]
+        },
+        {
+            "name": "AddRepo",
+            "bundleIdentifier": "cypwn.AddRepo.1.0.2",
+            "developerName": "AddRepo x CyPwn",
+            "localizedDescription": "App that can easily add repos to any package manager.",
+            "iconURL": "https://ipa.cypwn.xyz/serve/icons/AddRepo.png",
+            "tintColor": "FFC300",
+            "versions": [
+                {
+                    "version": "1.0.2",
+                    "date": "2022-09-14",
+                    "downloadURL": "https://ipa.cypwn.xyz/ipas/AddRepo.ipa",
+                    "size": 2369781
+                }
+            ]
+        },
+        {
+            "name": "Root",
+            "bundleIdentifier": "cypwn.Root.1.0.0",
+            "developerName": "Root x CyPwn",
+            "localizedDescription": "The best Filza Escaped alternative for iOS 14.0 - 14.3. Other software versions will work with limited access",
+            "iconURL": "https://ipa.cypwn.xyz/serve/icons/Root.png",
+            "tintColor": "FFC300",
+            "versions": [
+                {
+                    "version": "1.0.0",
+                    "date": "2022-09-14",
+                    "downloadURL": "https://ipa.cypwn.xyz/ipas/Root.ipa",
+                    "size": 2883584
+                }
+            ]
+        },
+        {
+            "name": "SleepCycle_Premium",
+            "bundleIdentifier": "cypwn.SleepCycle_Premium.6.22.34",
+            "developerName": "SleepCycle_Premium x CyPwn",
+            "localizedDescription": "Sleep Cycle Premium unlocked by Dz",
+            "iconURL": "https://ipa.cypwn.xyz/serve/icons/SleepCycle_Premium.png",
+            "tintColor": "FFC300",
+            "versions": [
+                {
+                    "version": "6.22.34",
+                    "date": "2022-09-08",
+                    "downloadURL": "https://ipa.cypwn.xyz/ipas/SleepCycle_Premium.ipa",
+                    "size": 83393249
+                }
+            ]
+        },
+        {
+            "name": "Alarmy_6.68.0+Satella",
+            "bundleIdentifier": "cypwn.Alarmy_6.68.0+Satella.6.68.0",
+            "developerName": "Alarmy_6.68.0+Satella x CyPwn",
+            "localizedDescription": "Includes Satella Jailed to unlock all in-app purchases. Click the floating purple star icon to open Satella settings. Enable tweak and turn on Receipts. Click buy on any IAP, then hit cancel upon confirmation.",
+            "iconURL": "https://ipa.cypwn.xyz/serve/icons/Alarmy_6.68.0+Satella.png",
+            "tintColor": "FFC300",
+            "versions": [
+                {
+                    "version": "6.68.0",
+                    "date": "2022-09-05",
+                    "downloadURL": "https://ipa.cypwn.xyz/ipas/Alarmy_6.68.0+Satella.ipa",
+                    "size": 122159104
+                }
+            ]
+        },
+        {
+            "name": "Adobe_Express_11.3.0+Satella",
+            "bundleIdentifier": "cypwn.Adobe_Express_11.3.0+Satella.11.3.0",
+            "developerName": "Adobe_Express_11.3.0+Satella x CyPwn",
+            "localizedDescription": "Includes Satella Jailed to unlock all in-app purchases. Click the floating purple star icon to open Satella settings. Enable tweak and turn on Receipts. Click buy on any IAP, then hit cancel upon confirmation.",
+            "iconURL": "https://ipa.cypwn.xyz/serve/icons/Adobe_Express_11.3.0+Satella.png",
+            "tintColor": "FFC300",
+            "versions": [
+                {
+                    "version": "11.3.0",
+                    "date": "2022-08-31",
+                    "downloadURL": "https://ipa.cypwn.xyz/ipas/Adobe_Express_11.3.0+Satella.ipa",
+                    "size": 75570872
+                }
+            ]
+        },
+        {
+            "name": "Pixelmator2.7.3",
+            "bundleIdentifier": "cypwn.Pixelmator2.7.3.2.7.3",
+            "developerName": "Pixelmator2.7.3 x CyPwn",
+            "localizedDescription": "Powerful, full-featured image editor for iOS.",
+            "iconURL": "https://ipa.cypwn.xyz/serve/icons/Pixelmator2.7.3.png",
+            "tintColor": "FFC300",
+            "versions": [
+                {
+                    "version": "2.7.3",
+                    "date": "2022-08-25",
+                    "downloadURL": "https://ipa.cypwn.xyz/ipas/Pixelmator2.7.3.ipa",
+                    "size": 122746306
+                }
+            ]
+        },
+        {
+            "name": "FineReader_PDF_Pro_15.4.2",
+            "bundleIdentifier": "cypwn.FineReader_PDF_Pro_15.4.2.15.4.2",
+            "developerName": "FineReader_PDF_Pro_15.4.2 x CyPwn",
+            "localizedDescription": "FineReader PDF Pro cracked by @Demoxing",
+            "iconURL": "https://ipa.cypwn.xyz/serve/icons/FineReader_PDF_Pro_15.4.2.png",
+            "tintColor": "FFC300",
+            "versions": [
+                {
+                    "version": "15.4.2",
+                    "date": "2022-08-21",
+                    "downloadURL": "https://ipa.cypwn.xyz/ipas/FineReader_PDF_Pro_15.4.2.ipa",
+                    "size": 64340623
+                }
+            ]
+        },
+        {
+            "name": "VideoShow_5.7.5",
+            "bundleIdentifier": "cypwn.VideoShow_5.7.5.5.7.5",
+            "developerName": "VideoShow_5.7.5 x CyPwn",
+            "localizedDescription": "VideoShow Pro cracked by @Demoxing",
+            "iconURL": "https://ipa.cypwn.xyz/serve/icons/VideoShow_5.7.5.png",
+            "tintColor": "FFC300",
+            "versions": [
+                {
+                    "version": "5.7.5",
+                    "date": "2022-08-21",
+                    "downloadURL": "https://ipa.cypwn.xyz/ipas/VideoShow_5.7.5.ipa",
+                    "size": 96049561
+                }
+            ]
+        },
+        {
+            "name": "iTablaPro_11.6.1",
+            "bundleIdentifier": "cypwn.iTablaPro_11.6.1.11.6.1",
+            "developerName": "iTablaPro_11.6.1 x CyPwn",
+            "localizedDescription": "iTablaPro cracked by @Demoxing",
+            "iconURL": "https://ipa.cypwn.xyz/serve/icons/iTablaPro_11.6.1.png",
+            "tintColor": "FFC300",
+            "versions": [
+                {
+                    "version": "11.6.1",
+                    "date": "2022-08-21",
+                    "downloadURL": "https://ipa.cypwn.xyz/ipas/iTablaPro_11.6.1.ipa",
+                    "size": 42760929
+                }
+            ]
+        },
+        {
+            "name": "HdoPlay-1-0-2-JKCrack",
+            "bundleIdentifier": "cypwn.HdoPlay-1-0-2-JKCrack.1.0.2",
+            "developerName": "HdoPlay-1-0-2-JKCrack x CyPwn",
+            "localizedDescription": "Hdo Play - Movie Planner. Premium Cracked!",
+            "iconURL": "https://ipa.cypwn.xyz/serve/icons/HdoPlay-1-0-2-JKCrack.png",
+            "tintColor": "FFC300",
+            "versions": [
+                {
+                    "version": "1.0.2",
+                    "date": "2022-08-15",
+                    "downloadURL": "https://ipa.cypwn.xyz/ipas/HdoPlay-1-0-2-JKCrack.ipa",
+                    "size": 8556380
+                }
+            ]
+        },
+        {
+            "name": "Santander",
+            "bundleIdentifier": "cypwn.Santander.1.0",
+            "developerName": "Santander x CyPwn",
+            "localizedDescription": "Modern File Manager for iOS 14, 15, & 16. Still in beta. Expect bugs and permission issues on newer iOS versions",
+            "iconURL": "https://ipa.cypwn.xyz/serve/icons/Santander.png",
+            "tintColor": "FFC300",
+            "versions": [
+                {
+                    "version": "1.0",
+                    "date": "2022-08-12",
+                    "downloadURL": "https://ipa.cypwn.xyz/ipas/Santander.ipa",
+                    "size": 1426063
+                }
+            ]
+        },
+        {
+            "name": "Candy_Crush",
+            "bundleIdentifier": "cypwn.Candy_Crush.1.226.0",
+            "developerName": "Candy_Crush x CyPwn",
+            "localizedDescription": "Candy Crush modded",
+            "iconURL": "https://ipa.cypwn.xyz/serve/icons/Candy_Crush.png",
+            "tintColor": "FFC300",
+            "versions": [
+                {
+                    "version": "1.226.0",
+                    "date": "2022-08-08",
+                    "downloadURL": "https://ipa.cypwn.xyz/ipas/Candy_Crush.ipa",
+                    "size": 80069263
+                }
+            ]
+        },
+        {
+            "name": "Wallcraft_Pro_2.8",
+            "bundleIdentifier": "cypwn.Wallcraft_Pro_2.8.2.8",
+            "developerName": "Wallcraft_Pro_2.8 x CyPwn",
+            "localizedDescription": "Wallcraft Pro unlocked - Wallpapers for days",
+            "iconURL": "https://ipa.cypwn.xyz/serve/icons/Wallcraft_Pro_2.8.png",
+            "tintColor": "FFC300",
+            "versions": [
+                {
+                    "version": "2.8",
+                    "date": "2022-08-06",
+                    "downloadURL": "https://ipa.cypwn.xyz/ipas/Wallcraft_Pro_2.8.ipa",
+                    "size": 15707668
+                }
+            ]
+        },
+        {
+            "name": "Jaility",
+            "bundleIdentifier": "cypwn.Jaility.1.2",
+            "developerName": "Jaility x CyPwn",
+            "localizedDescription": "Respring your jailed iOS 15 device just like it was jailbroken. An example use case for this is when sideloaded apps wont appear on homescreen, simply respring with jaility to fix.",
+            "iconURL": "https://ipa.cypwn.xyz/serve/icons/Jaility.png",
+            "tintColor": "FFC300",
+            "versions": [
+                {
+                    "version": "1.2",
+                    "date": "2022-08-04",
+                    "downloadURL": "https://ipa.cypwn.xyz/ipas/Jaility.ipa",
+                    "size": 1205862
+                }
+            ]
+        },
+        {
+            "name": "PostBox-0.8-beta",
+            "bundleIdentifier": "cypwn.PostBox-0.8-beta.0.8",
+            "developerName": "PostBox-0.8-beta x CyPwn",
+            "localizedDescription": "An app for browsing tweak repos. Download and save debs on jailed devices to use for injecting and sideloading. This DOES NOT install tweaks on jailed devices, but you no longer need a jailbroken device to find and save deb files",
+            "iconURL": "https://ipa.cypwn.xyz/serve/icons/PostBox-0.8-beta.png",
+            "tintColor": "FFC300",
+            "versions": [
+                {
+                    "version": "0.8",
+                    "date": "2022-07-31",
+                    "downloadURL": "https://ipa.cypwn.xyz/ipas/PostBox-0.8-beta.ipa",
+                    "size": 7245660
+                }
+            ]
+        },
+        {
+            "name": "kok3shidoll_v2.2.1",
+            "bundleIdentifier": "cypwn.kok3shidoll_v2.2.1.2.2.1",
+            "developerName": "kok3shidoll_v2.2.1 x CyPwn",
+            "localizedDescription": "iOS 9.3.x semi-untethered jailbreak",
+            "iconURL": "https://ipa.cypwn.xyz/serve/icons/kok3shidoll_v2.2.1.png",
+            "tintColor": "FFC300",
+            "versions": [
+                {
+                    "version": "2.2.1",
+                    "date": "2022-05-17",
+                    "downloadURL": "https://ipa.cypwn.xyz/ipas/kok3shidoll_v2.2.1.ipa",
+                    "size": 9101639
+                }
+            ]
+        },
+        {
+            "name": "Sync.ME_VIP_11.17.3",
+            "bundleIdentifier": "cypwn.Sync.ME_VIP_11.17.3.11.17.3",
+            "developerName": "Sync.ME_VIP_11.17.3 x CyPwn",
+            "localizedDescription": "",
+            "iconURL": "https://ipa.cypwn.xyz/serve/icons/Sync.ME_VIP_11.17.3.png",
+            "tintColor": "FFC300",
+            "versions": [
+                {
+                    "version": "11.17.3",
+                    "date": "2022-05-15",
+                    "downloadURL": "https://ipa.cypwn.xyz/ipas/Sync.ME_VIP_11.17.3.ipa",
+                    "size": 27724349
+                }
+            ]
+        },
+        {
+            "name": "VivaVideo_VIP_9.3.6",
+            "bundleIdentifier": "cypwn.VivaVideo_VIP_9.3.6.9.3.6",
+            "developerName": "VivaVideo_VIP_9.3.6 x CyPwn",
+            "localizedDescription": "VivaVideo w/ VIP unlocked",
+            "iconURL": "https://ipa.cypwn.xyz/serve/icons/VivaVideo_VIP_9.3.6.png",
+            "tintColor": "FFC300",
+            "versions": [
+                {
+                    "version": "9.3.6",
+                    "date": "2022-05-15",
+                    "downloadURL": "https://ipa.cypwn.xyz/ipas/VivaVideo_VIP_9.3.6.ipa",
+                    "size": 87535124
+                }
+            ]
+        },
+        {
+            "name": "ClarityWallpaperPro7.2.6",
+            "bundleIdentifier": "cypwn.ClarityWallpaperPro7.2.6.7.2.6",
+            "developerName": "ClarityWallpaperPro7.2.6 x CyPwn",
+            "localizedDescription": "Endless Wallpapers. Pro IAP membership unlocked.",
+            "iconURL": "https://ipa.cypwn.xyz/serve/icons/ClarityWallpaperPro7.2.6.png",
+            "tintColor": "FFC300",
+            "versions": [
+                {
+                    "version": "7.2.6",
+                    "date": "2022-05-12",
+                    "downloadURL": "https://ipa.cypwn.xyz/ipas/ClarityWallpaperPro7.2.6.ipa",
+                    "size": 43987763
+                }
+            ]
+        },
+        {
+            "name": "DualgramPro_1.22",
+            "bundleIdentifier": "cypwn.DualgramPro_1.22.1.22",
+            "developerName": "DualgramPro_1.22 x CyPwn",
+            "localizedDescription": "Record front and back cameras. Pro unlocked!",
+            "iconURL": "https://ipa.cypwn.xyz/serve/icons/DualgramPro_1.22.png",
+            "tintColor": "FFC300",
+            "versions": [
+                {
+                    "version": "1.22",
+                    "date": "2022-05-03",
+                    "downloadURL": "https://ipa.cypwn.xyz/ipas/DualgramPro_1.22.ipa",
+                    "size": 3617587
+                }
+            ]
+        },
+        {
+            "name": "remoteMousePro_4.211",
+            "bundleIdentifier": "cypwn.remoteMousePro_4.211.4.211",
+            "developerName": "remoteMousePro_4.211 x CyPwn",
+            "localizedDescription": "Pro features unlocked. Control your Mac, Windows, and Linux from your iOS device.",
+            "iconURL": "https://ipa.cypwn.xyz/serve/icons/remoteMousePro_4.211.png",
+            "tintColor": "FFC300",
+            "versions": [
+                {
+                    "version": "4.211",
+                    "date": "2022-05-01",
+                    "downloadURL": "https://ipa.cypwn.xyz/ipas/remoteMousePro_4.211.ipa",
+                    "size": 105644032
+                }
+            ]
+        },
+        {
+            "name": "Dystopia_0.01",
+            "bundleIdentifier": "cypwn.Dystopia_0.01.0.01",
+            "developerName": "Dystopia_0.01 x CyPwn",
+            "localizedDescription": "Alternative to Apollo for Reddit",
+            "iconURL": "https://ipa.cypwn.xyz/serve/icons/Dystopia_0.01.png",
+            "tintColor": "FFC300",
+            "versions": [
+                {
+                    "version": "0.01",
+                    "date": "2022-04-25",
+                    "downloadURL": "https://ipa.cypwn.xyz/ipas/Dystopia_0.01.ipa",
+                    "size": 9971957
+                }
+            ]
+        },
+        {
+            "name": "Retro_0.2_88",
+            "bundleIdentifier": "cypwn.Retro_0.2_88.0.2",
+            "developerName": "Retro_0.2_88 x CyPwn",
+            "localizedDescription": "Retro iPod ClickWheel Player with Spotify integration",
+            "iconURL": "https://ipa.cypwn.xyz/serve/icons/Retro_0.2~88.png",
+            "tintColor": "FFC300",
+            "versions": [
+                {
+                    "version": "0.2",
+                    "date": "2022-04-21",
+                    "downloadURL": "https://ipa.cypwn.xyz/ipas/Retro_0.2~88.ipa",
+                    "size": 109439877
+                }
+            ]
+        },
+        {
+            "name": "ScreenshotX1.0",
+            "bundleIdentifier": "cypwn.ScreenshotX1.0.1.0",
+            "developerName": "ScreenshotX1.0 x CyPwn",
+            "localizedDescription": "ScreenshotX by junesiphone",
+            "iconURL": "https://ipa.cypwn.xyz/serve/icons/ScreenshotX1.0.png",
+            "tintColor": "FFC300",
+            "versions": [
+                {
+                    "version": "1.0",
+                    "date": "2022-04-10",
+                    "downloadURL": "https://ipa.cypwn.xyz/ipas/ScreenshotX1.0.ipa",
+                    "size": 36406558
+                }
+            ]
+        },
+        {
+            "name": "ScreenSaver++1.3.1",
+            "bundleIdentifier": "cypwn.ScreenSaverPlus1.3.1.1.3.1",
+            "developerName": "ScreenSaver++1.3.1 x CyPwn",
+            "localizedDescription": "SleepSaver modified",
+            "iconURL": "https://ipa.cypwn.xyz/serve/icons/ScreenSaver++1.3.1.png",
+            "tintColor": "FFC300",
+            "versions": [
+                {
+                    "version": "1.3.1",
+                    "date": "2022-04-10",
+                    "downloadURL": "https://ipa.cypwn.xyz/ipas/ScreenSaver++1.3.1.ipa",
+                    "size": 122809221
+                }
+            ]
+        },
+        {
+            "name": "OldOS_1.0.18",
+            "bundleIdentifier": "cypwn.oldOS.oldOS",
+            "developerName": "OldOS_1.0.18 x CyPwn",
+            "localizedDescription": "iOS 4 4 ur 4ne",
+            "iconURL": "https://ipa.cypwn.xyz/serve/icons/OldOS_1.0.18.png",
+            "tintColor": "FFC300",
+            "versions": [
+                {
+                    "version": "1.0.18",
+                    "date": "2022-04-10",
+                    "downloadURL": "https://ipa.cypwn.xyz/ipas/OldOS_1.0.18.ipa",
+                    "size": 83865108
+                }
+            ]
+        },
+        {
+            "name": "Provenance2.1",
+            "bundleIdentifier": "org.provenance-emu.provenance",
+            "developerName": "Provenance2.1 x CyPwn",
+            "localizedDescription": "Video game emulator",
+            "iconURL": "https://ipa.cypwn.xyz/serve/icons/Provenance2.1.png",
+            "tintColor": "FFC300",
+            "versions": [
+                {
+                    "version": "2.1.0",
+                    "date": "2022-04-09",
+                    "downloadURL": "https://ipa.cypwn.xyz/ipas/Provenance2.1.ipa",
+                    "size": 36123443
+                }
+            ]
+        }
+    ],
+    "news": [
+        {
+            "title": "McClockface.1.5.1 now available!",
+            "identifier": "cypwn.McClockface.1.5.1.1.5.1",
+            "caption": "McClockface.1.5.1 added to the CyPwn Library",
+            "tintColor": "FFC300",
+            "imageURL": "https://ipa.cypwn.xyz/serve/icons/McClockface.1.5.1.png",
+            "date": "2023-01-08",
+            "url": "https://ipa.cypwn.xyz",
+            "notify": true
+        },
+        {
+            "title": "Naiad now available!",
+            "identifier": "cypwn.Naiad.1.0",
+            "caption": "Naiad added to the CyPwn Library",
+            "tintColor": "FFC300",
+            "imageURL": "https://ipa.cypwn.xyz/serve/icons/Naiad.png",
+            "date": "2022-12-31",
+            "url": "https://ipa.cypwn.xyz",
+            "notify": true
+        },
+        {
+            "title": "SharkMessenger_388.0 now available!",
+            "identifier": "cypwn.SharkMessenger_388.0.388.0",
+            "caption": "SharkMessenger_388.0 added to the CyPwn Library",
+            "tintColor": "FFC300",
+            "imageURL": "https://ipa.cypwn.xyz/serve/icons/SharkMessenger_388.0.png",
+            "date": "2022-11-30",
+            "url": "https://ipa.cypwn.xyz",
+            "notify": true
+        },
+        {
+            "title": "Sonic_3.5 now available!",
+            "identifier": "cypwn.Sonic_3.5.3.5",
+            "caption": "Sonic_3.5 added to the CyPwn Library",
+            "tintColor": "FFC300",
+            "imageURL": "https://ipa.cypwn.xyz/serve/icons/Sonic_3.5.png",
+            "date": "2022-11-30",
+            "url": "https://ipa.cypwn.xyz",
+            "notify": true
+        },
+        {
+            "title": "Summon_1.8_Satella now available!",
+            "identifier": "cypwn.Summon_1.8_Satella.1.8",
+            "caption": "Summon_1.8_Satella added to the CyPwn Library",
+            "tintColor": "FFC300",
+            "imageURL": "https://ipa.cypwn.xyz/serve/icons/Summon_1.8_Satella.png",
+            "date": "2022-11-27",
+            "url": "https://ipa.cypwn.xyz",
+            "notify": true
+        },
+        {
+            "title": "Vinegar_2.4.2 now available!",
+            "identifier": "cypwn.Vinegar_2.4.2.2.4.2",
+            "caption": "Vinegar_2.4.2 added to the CyPwn Library",
+            "tintColor": "FFC300",
+            "imageURL": "https://ipa.cypwn.xyz/serve/icons/Vinegar_2.4.2.png",
+            "date": "2022-11-26",
+            "url": "https://ipa.cypwn.xyz",
+            "notify": true
+        },
+        {
+            "title": "HeadsUp_5.1.41_Satella now available!",
+            "identifier": "cypwn.HeadsUp_5.1.41_Satella.5.1.41",
+            "caption": "HeadsUp_5.1.41_Satella added to the CyPwn Library",
+            "tintColor": "FFC300",
+            "imageURL": "https://ipa.cypwn.xyz/serve/icons/HeadsUp_5.1.41_Satella.png",
+            "date": "2022-11-20",
+            "url": "https:\/\/ipa.cypwn.xyz",
+            "notify": true
+        },
+        {
+            "title": "Pandolife1.1a_2211.1 now available!",
+            "identifier": "cypwn.Pandolife1.1a_2211.1.2211.1",
+            "caption": "Pandolife1.1a_2211.1 added to the CyPwn Library",
+            "tintColor": "FFC300",
+            "imageURL": "https://ipa.cypwn.xyz/serve/icons/Pandolife1.1a_2211.1.png",
+            "date": "2022-11-16",
+            "url": "https:\/\/ipa.cypwn.xyz",
+            "notify": true
+        },
+        {
+            "title": "StarVPN_3.6.0 now available!",
+            "identifier": "cypwn.StarVPN_3.6.0.3.6.0",
+            "caption": "StarVPN_3.6.0 added to the CyPwn Library",
+            "tintColor": "FFC300",
+            "imageURL": "https://ipa.cypwn.xyz/serve/icons/StarVPN_3.6.0.png",
+            "date": "2022-11-15",
+            "url": "https:\/\/ipa.cypwn.xyz",
+            "notify": true
+        },
+        {
+            "title": "RadarbotVIP_8.7.1 now available!",
+            "identifier": "cypwn.RadarbotVIP_8.7.1.8.7.1",
+            "caption": "RadarbotVIP_8.7.1 added to the CyPwn Library",
+            "tintColor": "FFC300",
+            "imageURL": "https://ipa.cypwn.xyz/serve/icons/RadarbotVIP_8.7.1.png",
+            "date": "2022-11-15",
+            "url": "https:\/\/ipa.cypwn.xyz",
+            "notify": true
+        },
+        {
+            "title": "VidList_0.5.1 now available!",
+            "identifier": "cypwn.VidList_0.5.1.0.5.1",
+            "caption": "VidList_0.5.1 added to the CyPwn Library",
+            "tintColor": "FFC300",
+            "imageURL": "https://ipa.cypwn.xyz/serve/icons/VidList_0.5.1.png",
+            "date": "2022-11-12",
+            "url": "https:\/\/ipa.cypwn.xyz",
+            "notify": true
+        },
+        {
+            "title": "cl1m4x now available!",
+            "identifier": "cypwn.cl1m4x.1.3",
+            "caption": "cl1m4x added to the CyPwn Library",
+            "tintColor": "FFC300",
+            "imageURL": "https://ipa.cypwn.xyz/serve/icons/cl1m4x.png",
+            "date": "2022-11-07",
+            "url": "https:\/\/ipa.cypwn.xyz",
+            "notify": true
+        },
+        {
+            "title": "ChromaHue_2.1.0 now available!",
+            "identifier": "cypwn.ChromaHue_2.1.0.2.1.0",
+            "caption": "ChromaHue_2.1.0 added to the CyPwn Library",
+            "tintColor": "FFC300",
+            "imageURL": "https://ipa.cypwn.xyz/serve/icons/ChromaHue_2.1.0.png",
+            "date": "2022-11-07",
+            "url": "https:\/\/ipa.cypwn.xyz",
+            "notify": true
+        },
+        {
+            "title": "Ulysses_27.3k now available!",
+            "identifier": "cypwn.Ulysses_27.3k.27.3",
+            "caption": "Ulysses_27.3k added to the CyPwn Library",
+            "tintColor": "FFC300",
+            "imageURL": "https://ipa.cypwn.xyz/serve/icons/Ulysses_27.3k.png",
+            "date": "2022-11-06",
+            "url": "https:\/\/ipa.cypwn.xyz",
+            "notify": true
+        },
+        {
+            "title": "PostBox-Pocket now available!",
+            "identifier": "cypwn.PostBox-Pocket.0.8.1",
+            "caption": "PostBox-Pocket added to the CyPwn Library",
+            "tintColor": "FFC300",
+            "imageURL": "https://ipa.cypwn.xyz/serve/icons/PostBox-Pocket.png",
+            "date": "2022-11-02",
+            "url": "https:\/\/ipa.cypwn.xyz",
+            "notify": true
+        },
+        {
+            "title": "SuperMario64_60FPS_1.2.1 now available!",
+            "identifier": "cypwn.SuperMario64_60FPS_1.2.1.1.2.1",
+            "caption": "SuperMario64_60FPS_1.2.1 added to the CyPwn Library",
+            "tintColor": "FFC300",
+            "imageURL": "https://ipa.cypwn.xyz/serve/icons/SuperMario64_60FPS_1.2.1.png",
+            "date": "2022-10-10",
+            "url": "https:\/\/ipa.cypwn.xyz",
+            "notify": true
+        },
+        {
+            "title": "SuperMario64_30FPS_1.2.1 now available!",
+            "identifier": "cypwn.SuperMario64_30FPS_1.2.1.1.2.1",
+            "caption": "SuperMario64_30FPS_1.2.1 added to the CyPwn Library",
+            "tintColor": "FFC300",
+            "imageURL": "https://ipa.cypwn.xyz/serve/icons/SuperMario64_30FPS_1.2.1.png",
+            "date": "2022-10-10",
+            "url": "https:\/\/ipa.cypwn.xyz",
+            "notify": true
+        },
+        {
+            "title": "SuperMario64 now available!",
+            "identifier": "cypwn.SuperMario64.1.0.0",
+            "caption": "SuperMario64 added to the CyPwn Library",
+            "tintColor": "FFC300",
+            "imageURL": "https:\/\/ipa.cypwn.xyz/serve/icons/SuperMario64.png",
+            "date": "2022-10-10",
+            "url": "https:\/\/ipa.cypwn.xyz",
+            "notify": true
+        },
+        {
+            "title": "FRLegends++ now available!",
+            "identifier": "cypwn.FRLegendsPlus.0.3.2",
+            "caption": "FRLegends++ added to the CyPwn Library",
+            "tintColor": "FFC300",
+            "imageURL": "https://ipa.cypwn.xyz/serve/icons/FRLegends++.png",
+            "date": "2022-10-06",
+            "url": "https:\/\/ipa.cypwn.xyz",
+            "notify": true
+        },
+        {
+            "title": "WallpapersCentralPro_1.5.2 now available!",
+            "identifier": "cypwn.WallpapersCentralPro_1.5.2.1.5.2",
+            "caption": "WallpapersCentralPro_1.5.2 added to the CyPwn Library",
+            "tintColor": "FFC300",
+            "imageURL": "https://ipa.cypwn.xyz/serve/icons/WallpapersCentralPro_1.5.2.png",
+            "date": "2022-09-28",
+            "url": "https:\/\/ipa.cypwn.xyz",
+            "notify": true
+        },
+        {
+            "title": "LiveWallpapersForMe_2.42.2 now available!",
+            "identifier": "cypwn.LiveWallpapersForMe_2.42.2.2.42.2",
+            "caption": "LiveWallpapersForMe_2.42.2 added to the CyPwn Library",
+            "tintColor": "FFC300",
+            "imageURL": "https://ipa.cypwn.xyz/serve/icons/LiveWallpapersForMe_2.42.2.png",
+            "date": "2022-09-27",
+            "url": "https:\/\/ipa.cypwn.xyz",
+            "notify": true
+        },
+        {
+            "title": "YouCamPerfect_5.76.1 now available!",
+            "identifier": "cypwn.YouCamPerfect_5.76.1.5.76.1",
+            "caption": "YouCamPerfect_5.76.1 added to the CyPwn Library",
+            "tintColor": "FFC300",
+            "imageURL": "https://ipa.cypwn.xyz/serve/icons/YouCamPerfect_5.76.1.png",
+            "date": "2022-09-26",
+            "url": "https:\/\/ipa.cypwn.xyz",
+            "notify": true
+        },
+        {
+            "title": "Star_Map_2.6_Satella now available!",
+            "identifier": "cypwn.Star_Map_2.6_Satella.2.6",
+            "caption": "Star_Map_2.6_Satella added to the CyPwn Library",
+            "tintColor": "FFC300",
+            "imageURL": "https://ipa.cypwn.xyz/serve/icons/Star_Map_2.6_Satella.png",
+            "date": "2022-09-19",
+            "url": "https:\/\/ipa.cypwn.xyz",
+            "notify": true
+        },
+        {
+            "title": "RefacePro_3.12.0 now available!",
+            "identifier": "cypwn.RefacePro_3.12.0.3.12.0",
+            "caption": "RefacePro_3.12.0 added to the CyPwn Library",
+            "tintColor": "FFC300",
+            "imageURL": "https://ipa.cypwn.xyz/serve/icons/RefacePro_3.12.0.png",
+            "date": "2022-09-18",
+            "url": "https:\/\/ipa.cypwn.xyz",
+            "notify": true
+        },
+        {
+            "title": "AppCake+ now available!",
+            "identifier": "cypwn.AppCake+.7.2.2",
+            "caption": "AppCake+ added to the CyPwn Library",
+            "tintColor": "FFC300",
+            "imageURL": "https://ipa.cypwn.xyz/serve/icons/AppCake+.png",
+            "date": "2022-09-16",
+            "url": "https:\/\/ipa.cypwn.xyz",
+            "notify": true
+        },
+        {
+            "title": "NewOS now available!",
+            "identifier": "cypwn.NewOS.1.0",
+            "caption": "NewOS added to the CyPwn Library",
+            "tintColor": "FFC300",
+            "imageURL": "https://ipa.cypwn.xyz/serve/icons/NewOS.png",
+            "date": "2022-09-14",
+            "url": "https:\/\/ipa.cypwn.xyz",
+            "notify": true
+        },
+        {
+            "title": "AddRepo now available!",
+            "identifier": "cypwn.AddRepo.1.0.2",
+            "caption": "AddRepo added to the CyPwn Library",
+            "tintColor": "FFC300",
+            "imageURL": "https://ipa.cypwn.xyz/serve/icons/AddRepo.png",
+            "date": "2022-09-14",
+            "url": "https:\/\/ipa.cypwn.xyz",
+            "notify": true
+        },
+        {
+            "title": "Root now available!",
+            "identifier": "cypwn.Root.1.0.0",
+            "caption": "Root added to the CyPwn Library",
+            "tintColor": "FFC300",
+            "imageURL": "https:\/\/ipa.cypwn.xyz/serve/icons/Root.png",
+            "date": "2022-09-14",
+            "url": "https:\/\/ipa.cypwn.xyz",
+            "notify": true
+        },
+        {
+            "title": "SleepCycle_Premium now available!",
+            "identifier": "cypwn.SleepCycle_Premium.6.22.34",
+            "caption": "SleepCycle_Premium added to the CyPwn Library",
+            "tintColor": "FFC300",
+            "imageURL": "https://ipa.cypwn.xyz/serve/icons/SleepCycle_Premium.png",
+            "date": "2022-09-08",
+            "url": "https:\/\/ipa.cypwn.xyz",
+            "notify": true
+        },
+        {
+            "title": "Alarmy_6.68.0+Satella now available!",
+            "identifier": "cypwn.Alarmy_6.68.0+Satella.6.68.0",
+            "caption": "Alarmy_6.68.0+Satella added to the CyPwn Library",
+            "tintColor": "FFC300",
+            "imageURL": "https://ipa.cypwn.xyz/serve/icons/Alarmy_6.68.0+Satella.png",
+            "date": "2022-09-05",
+            "url": "https:\/\/ipa.cypwn.xyz",
+            "notify": true
+        },
+        {
+            "title": "Adobe_Express_11.3.0+Satella now available!",
+            "identifier": "cypwn.Adobe_Express_11.3.0+Satella.11.3.0",
+            "caption": "Adobe_Express_11.3.0+Satella added to the CyPwn Library",
+            "tintColor": "FFC300",
+            "imageURL": "https:\/\/ipa.cypwn.xyz/serve/icons/Adobe_Express_11.3.0+Satella.png",
+            "date": "2022-08-31",
+            "url": "https:\/\/ipa.cypwn.xyz",
+            "notify": true
+        },
+        {
+            "title": "Pixelmator2.7.3 now available!",
+            "identifier": "cypwn.Pixelmator2.7.3.2.7.3",
+            "caption": "Pixelmator2.7.3 added to the CyPwn Library",
+            "tintColor": "FFC300",
+            "imageURL": "https:\/\/ipa.cypwn.xyz/serve/icons/Pixelmator2.7.3.png",
+            "date": "2022-08-25",
+            "url": "https:\/\/ipa.cypwn.xyz",
+            "notify": true
+        },
+        {
+            "title": "FineReader_PDF_Pro_15.4.2 now available!",
+            "identifier": "cypwn.FineReader_PDF_Pro_15.4.2.15.4.2",
+            "caption": "FineReader_PDF_Pro_15.4.2 added to the CyPwn Library",
+            "tintColor": "FFC300",
+            "imageURL": "https:\/\/ipa.cypwn.xyz/serve/icons/FineReader_PDF_Pro_15.4.2.png",
+            "date": "2022-08-21",
+            "url": "https:\/\/ipa.cypwn.xyz",
+            "notify": true
+        },
+        {
+            "title": "VideoShow_5.7.5 now available!",
+            "identifier": "cypwn.VideoShow_5.7.5.5.7.5",
+            "caption": "VideoShow_5.7.5 added to the CyPwn Library",
+            "tintColor": "FFC300",
+            "imageURL": "https:\/\/ipa.cypwn.xyz/serve/icons/VideoShow_5.7.5.png",
+            "date": "2022-08-21",
+            "url": "https:\/\/ipa.cypwn.xyz",
+            "notify": true
+        },
+        {
+            "title": "iTablaPro_11.6.1 now available!",
+            "identifier": "cypwn.iTablaPro_11.6.1.11.6.1",
+            "caption": "iTablaPro_11.6.1 added to the CyPwn Library",
+            "tintColor": "FFC300",
+            "imageURL": "https:\/\/ipa.cypwn.xyz/serve/icons/iTablaPro_11.6.1.png",
+            "date": "2022-08-21",
+            "url": "https:\/\/ipa.cypwn.xyz",
+            "notify": true
+        },
+        {
+            "title": "HdoPlay-1-0-2-JKCrack now available!",
+            "identifier": "cypwn.HdoPlay-1-0-2-JKCrack.1.0.2",
+            "caption": "HdoPlay-1-0-2-JKCrack added to the CyPwn Library",
+            "tintColor": "FFC300",
+            "imageURL": "https:\/\/ipa.cypwn.xyz/serve/icons/HdoPlay-1-0-2-JKCrack.png",
+            "date": "2022-08-15",
+            "url": "https:\/\/ipa.cypwn.xyz",
+            "notify": true
+        },
+        {
+            "title": "Santander now available!",
+            "identifier": "cypwn.Santander.1.0",
+            "caption": "Santander added to the CyPwn Library",
+            "tintColor": "FFC300",
+            "imageURL": "https:\/\/ipa.cypwn.xyz/serve/icons/Santander.png",
+            "date": "2022-08-12",
+            "url": "https:\/\/ipa.cypwn.xyz",
+            "notify": true
+        },
+        {
+            "title": "Candy_Crush now available!",
+            "identifier": "cypwn.Candy_Crush.1.226.0",
+            "caption": "Candy_Crush added to the CyPwn Library",
+            "tintColor": "FFC300",
+            "imageURL": "https:\/\/ipa.cypwn.xyz/serve/icons/Candy_Crush.png",
+            "date": "2022-08-08",
+            "url": "https:\/\/ipa.cypwn.xyz",
+            "notify": true
+        },
+        {
+            "title": "Wallcraft_Pro_2.8 now available!",
+            "identifier": "cypwn.Wallcraft_Pro_2.8.2.8",
+            "caption": "Wallcraft_Pro_2.8 added to the CyPwn Library",
+            "tintColor": "FFC300",
+            "imageURL": "https:\/\/ipa.cypwn.xyz/serve/icons/Wallcraft_Pro_2.8.png",
+            "date": "2022-08-06",
+            "url": "https:\/\/ipa.cypwn.xyz",
+            "notify": true
+        },
+        {
+            "title": "Jaility now available!",
+            "identifier": "cypwn.Jaility.1.2",
+            "caption": "Jaility added to the CyPwn Library",
+            "tintColor": "FFC300",
+            "imageURL": "https:\/\/ipa.cypwn.xyz/serve/icons/Jaility.png",
+            "date": "2022-08-04",
+            "url": "https:\/\/ipa.cypwn.xyz",
+            "notify": true
+        },
+        {
+            "title": "PostBox-0.8-beta now available!",
+            "identifier": "cypwn.PostBox-0.8-beta.0.8",
+            "caption": "PostBox-0.8-beta added to the CyPwn Library",
+            "tintColor": "FFC300",
+            "imageURL": "https:\/\/ipa.cypwn.xyz/serve/icons/PostBox-0.8-beta.png",
+            "date": "2022-07-31",
+            "url": "https:\/\/ipa.cypwn.xyz",
+            "notify": true
+        },
+        {
+            "title": "kok3shidoll_v2.2.1 now available!",
+            "identifier": "cypwn.kok3shidoll_v2.2.1.2.2.1",
+            "caption": "kok3shidoll_v2.2.1 added to the CyPwn Library",
+            "tintColor": "FFC300",
+            "imageURL": "https:\/\/ipa.cypwn.xyz/serve/icons/kok3shidoll_v2.2.1.png",
+            "date": "2022-05-17",
+            "url": "https:\/\/ipa.cypwn.xyz",
+            "notify": true
+        },
+        {
+            "title": "Sync.ME_VIP_11.17.3 now available!",
+            "identifier": "cypwn.Sync.ME_VIP_11.17.3.11.17.3",
+            "caption": "Sync.ME_VIP_11.17.3 added to the CyPwn Library",
+            "tintColor": "FFC300",
+            "imageURL": "https:\/\/ipa.cypwn.xyz/serve/icons/Sync.ME_VIP_11.17.3.png",
+            "date": "2022-05-15",
+            "url": "https:\/\/ipa.cypwn.xyz",
+            "notify": true
+        },
+        {
+            "title": "VivaVideo_VIP_9.3.6 now available!",
+            "identifier": "cypwn.VivaVideo_VIP_9.3.6.9.3.6",
+            "caption": "VivaVideo_VIP_9.3.6 added to the CyPwn Library",
+            "tintColor": "FFC300",
+            "imageURL": "https:\/\/ipa.cypwn.xyz/serve/icons/VivaVideo_VIP_9.3.6.png",
+            "date": "2022-05-15",
+            "url": "https:\/\/ipa.cypwn.xyz",
+            "notify": true
+        },
+        {
+            "title": "ClarityWallpaperPro7.2.6 now available!",
+            "identifier": "cypwn.ClarityWallpaperPro7.2.6.7.2.6",
+            "caption": "ClarityWallpaperPro7.2.6 added to the CyPwn Library",
+            "tintColor": "FFC300",
+            "imageURL": "https:\/\/ipa.cypwn.xyz/serve/icons/ClarityWallpaperPro7.2.6.png",
+            "date": "2022-05-12",
+            "url": "https:\/\/ipa.cypwn.xyz",
+            "notify": true
+        },
+        {
+            "title": "DualgramPro_1.22 now available!",
+            "identifier": "cypwn.DualgramPro_1.22.1.22",
+            "caption": "DualgramPro_1.22 added to the CyPwn Library",
+            "tintColor": "FFC300",
+            "imageURL": "https:\/\/ipa.cypwn.xyz/serve/icons/DualgramPro_1.22.png",
+            "date": "2022-05-03",
+            "url": "https:\/\/ipa.cypwn.xyz",
+            "notify": true
+        },
+        {
+            "title": "remoteMousePro_4.211 now available!",
+            "identifier": "cypwn.remoteMousePro_4.211.4.211",
+            "caption": "remoteMousePro_4.211 added to the CyPwn Library",
+            "tintColor": "FFC300",
+            "imageURL": "https:\/\/ipa.cypwn.xyz/serve/icons/remoteMousePro_4.211.png",
+            "date": "2022-05-01",
+            "url": "https:\/\/ipa.cypwn.xyz",
+            "notify": true
+        },
+        {
+            "title": "Dystopia_0.01 now available!",
+            "identifier": "cypwn.Dystopia_0.01.0.01",
+            "caption": "Dystopia_0.01 added to the CyPwn Library",
+            "tintColor": "FFC300",
+            "imageURL": "https:\/\/ipa.cypwn.xyz/serve/icons/Dystopia_0.01.png",
+            "date": "2022-04-25",
+            "url": "https:\/\/ipa.cypwn.xyz",
+            "notify": true
+        },
+        {
+            "title": "Retro_0.2_88 now available!",
+            "identifier": "cypwn.Retro_0.2_88.0.2",
+            "caption": "Retro_0.2~88 added to the CyPwn Library",
+            "tintColor": "FFC300",
+            "imageURL": "https:\/\/ipa.cypwn.xyz/serve/icons/Retro_0.2~88.png",
+            "date": "2022-04-21",
+            "url": "https:\/\/ipa.cypwn.xyz",
+            "notify": true
+        },
+        {
+            "title": "ScreenshotX1.0 now available!",
+            "identifier": "cypwn.ScreenshotX1.0.1.0",
+            "caption": "ScreenshotX1.0 added to the CyPwn Library",
+            "tintColor": "FFC300",
+            "imageURL": "https:\/\/ipa.cypwn.xyz/serve/icons/ScreenshotX1.0.png",
+            "date": "2022-04-10",
+            "url": "https:\/\/ipa.cypwn.xyz",
+            "notify": true
+        },
+        {
+            "title": "ScreenSaver++1.3.1 now available!",
+            "identifier": "cypwn.ScreenSaverPlus1.3.1.1.3.1",
+            "caption": "ScreenSaver++1.3.1 added to the CyPwn Library",
+            "tintColor": "FFC300",
+            "imageURL": "https:\/\/ipa.cypwn.xyz/serve/icons/ScreenSaver++1.3.1.png",
+            "date": "2022-04-10",
+            "url": "https:\/\/ipa.cypwn.xyz",
+            "notify": true
+        },
+        {
+            "title": "OldOS_1.0.18 now available!",
+            "identifier": "cypwn.OldOS_1.0.18.1.0.18",
+            "caption": "OldOS_1.0.18 added to the CyPwn Library",
+            "tintColor": "FFC300",
+            "imageURL": "https:\/\/ipa.cypwn.xyz/serve/icons/OldOS_1.0.18.png",
+            "date": "2022-04-10",
+            "url": "https:\/\/ipa.cypwn.xyz",
+            "notify": true
+        },
+        {
             "title": "Provenance2.1 now available!",
             "identifier": "cypwn.Provenance2.1.2.1.0",
             "caption": "Provenance2.1 added to the CyPwn Library",
@@ -2144,5 +3498,4 @@
             "notify": true
         }
     ]
-
 }
