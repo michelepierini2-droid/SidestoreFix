@@ -4,22 +4,6 @@
     "sourceURL": "https://ipa.cypwn.xyz/sidestore.json",
     "apps": [
         {
-            "name": "YouTubePlus-19.46.3",
-            "bundleIdentifier": "com.s.yvha5hvluylr318qmx3v209mva89ishq",
-            "developerName": "YouTubePlus-19.46.3 x TheSpot",
-            "localizedDescription": "YouTube_Plus",
-            "iconURL": "https://app.box.com/s/nfoediampevpj55unhppqz44ytun6htr",
-            "tintColor": "FFC300",
-            "versions": [
-                {
-                    "version": "1.1",
-                    "date": "2025-12-08",
-                    "downloadURL": "https://app.box.com/s/yvha5hvluylr318qmx3v209mva89ishq",
-                    "size": 126273
-                }
-            ]
-        },
-        {
             "name": "DLiPA_v1.1",
             "bundleIdentifier": "com.ahmedbafkir.dlipa",
             "developerName": "DLiPA_v1.1 x CyPwn",
@@ -3531,5 +3515,6 @@
         }
     ]
 }
+
 
 
